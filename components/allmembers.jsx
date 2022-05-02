@@ -117,7 +117,6 @@ export default function AllMembers({navigation}) {
                     <View style={styles.modalView}>
 
                         <Text style={styles.modalText}>Edit Member {test.name}</Text>
-                        <Text style={styles.modalText}>Warning! You are all free to edit member lines.</Text>
                         <TextInput>Member ID {test.id}</TextInput>
                         <Text>Name</Text>
                         <View style={styles.modalTextInputView}>
