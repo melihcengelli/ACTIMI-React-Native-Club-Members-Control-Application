@@ -1,4 +1,4 @@
-# ACTIMI-React-Native-Club-Members-Control-Application
+React-Native-Club-Members-Control-Application
 
 <div align="center"><h3>IOS LOGIN PAGE</h3></div>
 <div align="center"><img src="assets/login.jpeg" alt="login" width="270" height="480"/></div>
